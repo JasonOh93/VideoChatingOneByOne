@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817132754522",
+    "project_id": "videochatingonebyone",
+    "storage_bucket": "videochatingonebyone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817132754522:android:0ed53bd94a572e24512a63",
+        "android_client_info": {
+          "package_name": "com.jasonoh.videochatingonebyonefromhowlyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817132754522-8jua76ec3v8uum5at0vu5ug6jgubmjnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqS2yU4OR8M_1XdGHM936uKv325DeGvTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817132754522-8jua76ec3v8uum5at0vu5ug6jgubmjnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
